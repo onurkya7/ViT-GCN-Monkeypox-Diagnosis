@@ -1,7 +1,7 @@
 # ViT-GCN-Monkeypox-Diagnosis
 
 - Das, Bihter, et al. **“A Novel Hybrid Model Combining Vision Transformers and Graph Convolutional Networks for Monkeypox Disease Effective Diagnosis.”** Information Fusion, vol. 117, 2025, p. 102858, https://doi.org/10.1016/j.inffus.2024.102858.
-- Author: Bihter Das, Huseyin Alperen Dagdogen, Muhammed Onur Kaya and Resul Das
+- Authors: Bihter Das, Huseyin Alperen Dagdogen, Muhammed Onur Kaya, and Resul Das
 
 Accurate diagnosis of monkeypox is challenging due to the limitations of current diagnostic techniques, which often fail to account for the complex visual and structural characteristics of skin lesions. This project introduces a novel hybrid deep learning approach that integrates the strengths of **Vision Transformers (ViT)**, **ResNet50**, and **AlexNet** with **Graph Convolutional Networks (GCN)** to enhance diagnostic accuracy. 
 
@@ -50,5 +50,6 @@ If you want to contribute to this project, please follow these steps:
 
 ## License
 
-Our project is licensed under the [GNU General Public License v3.0](LICENSE).
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
+
 
